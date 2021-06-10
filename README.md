@@ -1,1 +1,1 @@
-# Excursion App Website
+# Excursion
